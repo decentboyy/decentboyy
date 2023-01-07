@@ -53,6 +53,8 @@ Let me introduce you about myself, my name is Decent boy(Not Real); 21y.o from L
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/decentboyy)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/decent_op)
+[![Instagram](https://img.shields.io/badge/instagram-3A5E0?style=for-the-badge&logo=instagram&logoColor=pink)](https://www.instagram.com/decent_b_0_y/)
+
 
 <sub> *“People with evil intent can do evil things without lying. And not all liars are evil.” – Elaina* </sub>
   
@@ -62,3 +64,4 @@ Let me introduce you about myself, my name is Decent boy(Not Real); 21y.o from L
 
 ![](https://komarev.com/ghpvc/?username=ArshCypherZ&style=for-the-badge)
 </div>
+
