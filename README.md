@@ -16,7 +16,6 @@ Let me introduce you about myself, my name is Decent boy(Not Real); 21y.o from L
 <a href="https://github.com/decentboyy/Octave_MusicBot">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=decentboyy&repo=Octave_MusicBot&cache_seconds=86400&theme=gotham">
 </a>
-
   
 - Name **Decent Boy**
 
