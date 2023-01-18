@@ -59,7 +59,11 @@ Let me introduce you about myself, my name is Decent boy(Not Real); 21y.o from L
   
 ![Arsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=decentboyy&count_private=true&theme=midnight-purple)  
 
-[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=ITZ-ZAID&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/decentboyy)  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nyjbku14dl0j9ncqmwh5dzc0f&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=07daf8)](https://github.com/kittinan/spotify-github-profile)
+
+<a href="https://www.data-card-for-spotify.com/card?user_id=nyjbku14dl0j9ncqmwh5dzc0f">
+  <img src="https://www.data-card-for-spotify.com/api/card?user_id=nyjbku14dl0j9ncqmwh5dzc0f" alt="Data Card for Spotify">
+</a> 
 
 ![](https://komarev.com/ghpvc/?username=ArshCypherZ&style=for-the-badge)
 </div>
